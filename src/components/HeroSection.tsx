@@ -47,7 +47,7 @@ export default function HeroSection() {
                     <h1 className="text-4xl sm:text-5xl lg:text-6xl xl:text-7xl font-bold tracking-tight leading-tight mb-6">
                         Bridging{" "}
                         <span className="text-transparent bg-clip-text bg-gradient-to-r from-[var(--cyan-accent)] to-cyan-300 animate-gradient">
-                            Medical AI Innovation
+                            Medical AI
                         </span>
                         <br />
                         with Enterprise Software.
